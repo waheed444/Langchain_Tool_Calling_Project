@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\01-Btach-62\Project03_Tool_Calling\venv
+set VIRTUAL_ENV=D:\01-Btach-62\Langchain_Tool_Calling_Project\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
