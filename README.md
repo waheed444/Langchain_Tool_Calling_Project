@@ -61,7 +61,7 @@ Langchain_Tool_Calling_Project/
 ## 🙌 Contributions & Feedback
 
 I welcome contributions, suggestions, and feedback!  
-If you find any issues or want to improve this project, feel free to open a [GitHub issue](https://github.com/waheed444/Learn_Streamlit/issues) or submit a pull request.
+If you find any issues or want to improve this project, feel free to open a [GitHub issue](https://github.com/waheed444/Langchain_Tool_Calling_Project/issues) or submit a pull request.
 
 This repo is only for learning and exploring new things, feel free to fork it, explore, or give suggestions!
 
