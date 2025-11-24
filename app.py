@@ -13,7 +13,7 @@ load_dotenv()
 # Access environment variables
 GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY')
 
-llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash-exp", api_key=GOOGLE_API_KEY)
+llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", api_key=GOOGLE_API_KEY)
 agent = initialize_agent(tools, llm, agent=AgentType.STRUCTURED_CHAT_ZERO_SHOT_REACT_DESCRIPTION)
 
 # Streamlit UI
